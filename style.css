@@ -1,0 +1,122 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-image: url(https://virtual-bg.com/wp-content/uploads/2020/06/professional-3-background-for-zoom-or-teams-unsplash.jpg);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+
+#title {
+    text-align: center;
+    font-size: 2.5rem;
+    color: #333;
+}
+
+
+#section-heading {
+    font-size: 2rem;
+    color: #888f97;
+    border-bottom: 2px solid #808e9d;
+    padding-bottom: 10px;
+    margin-top: 40px;
+}
+#menu-list {
+    list-style-type: none;
+    padding: 0;
+
+}
+
+#menu-item {
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    background-color: #333;
+    padding: 15px ;
+    text-align: center;
+    border-radius: 30px;
+    margin: 30px;
+    background-color: #17171789;
+}
+
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    
+}
+
+nav ul li a:hover {
+    color: #c17070;
+}
+section ul li a {
+    color: rgb(190, 156, 143);
+    text-decoration: none;
+    font-size: 20px;
+
+}
+section ul li a:hover {
+    color: #c17070;
+    text-decoration: underline;
+}
+
+.contact-link {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #8a1e1e;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    background-color: #007BFF;
+}
+
+.contact-link:hover {
+    background-color: rgb(153, 151, 151);
+}
+section{
+    text-align: center;
+    background-color: #000000a0;
+    border-radius: 30px;
+    text-decoration: none;
+
+}
+footer {
+    background-color:rgba(0, 0, 0, 0.537) ;
+    border-radius: 30px;
+}
+#button{
+    background-color: #010101aa;
+    background-origin: padding-box;
+    border-radius: 30px;
+    color: #8a1e1e;
+    width: 50px;
+    height: 40px;
+}
+#work {
+    text-decoration: none
+}
+form input {
+    margin-top: 20px;
+    margin-top: 20px;
+    margin-left: 35px;
+    margin-bottom: 20px;
+}
